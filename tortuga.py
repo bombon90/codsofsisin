@@ -18,7 +18,7 @@ class TurtleForNoobs:
         cir = turtle.Turtle()
         cir.circle(100)
         turtle.done()
-        
+
     def ks(self,length, d):
         if d == 0:
             turtle.forward(length)
@@ -40,7 +40,7 @@ class TurtleForNoobs:
             for i in range(3):
                 #turtle.color(colors[i])
                 self.ks(200,3)
-                turtle.left(100)
+                turtle.left(120)
             turtle.update()
             turtle.done()
         
