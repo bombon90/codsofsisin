@@ -1,0 +1,4 @@
+Code Wars https://www.codewars.com
+
+ Python Snake
+ https://www.codewars.com/kata/592791d2f3a7584c260000fc/python
